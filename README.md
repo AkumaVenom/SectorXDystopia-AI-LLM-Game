@@ -71,6 +71,8 @@ Intel: 4th Generation (Haswell) and above
 
 https://discord.gg/Uf8Q8usSmk
 
+Donation/Tips https://www.paypal.me/akumacreative
+
 ========================================
 
 SectorX Inc AI Android NPC's with custom robot TTS voice
