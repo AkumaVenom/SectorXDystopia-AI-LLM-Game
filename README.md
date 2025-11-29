@@ -37,6 +37,18 @@ Welcome to Neon City.
 
 SectorX Dystopia is being created with Unreal Engine 5.5 and is a work in progress that is currently in the early alpha stage at the moment.
 
+Currently there is only a small demo map to explore featuring the AI NPCS, Expect a big cyberpunk neon city in the future!
+
+===========================================================
+
+Start chat with NPC: Press F key while close to them and aimed at them.
+
+Disable chat with NPC: Press Q or ESC
+
+Enter Options Menu: Press F6
+
+Hold T key to activate the microphone, releasing T key will stop the microphone.
+
 ===========================================================
 
 The GGUF LLM model can be replaced in the packaged build of the app to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format.
@@ -57,7 +69,7 @@ Direct X 12
 
 OS: Windows 11 64bit
 
-Requires a RTX "Nvidia GPU" to use DLSS4 Graphics and Preformance Upgrade and also for fast LLM text generation.
+Requires a RTX "Nvidia GPU" to use DLSS4.
 
 Highly Recommended: CUDA 12.2 [Click To Download](https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local)
 
