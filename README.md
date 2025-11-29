@@ -1,14 +1,16 @@
 # SectorXDystopia-AI-LLM-Game
 
-10.20.2025 - v0.0.1.10a has been released!
+11.30.2025 - v0.0.3.0a has been released!
 
-Video Preview: [Click Here](https://www.youtube.com/watch?v=Q5HKE8VpUsY)
+Pre-Release Download: https://drive.google.com/uc?export=download&id=1Ol2MaU2IPWfjkY5fm16I52VyN7bTrcS_
 
-Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&id=1eA66uVfIykJeVf5BT6B9BDtT2WqRRZTz)
+Mirror: https://drive.google.com/uc?export=download&id=1uf4LWj3NLTb6Zd1YOWdTcIdtiOesuqM5
 
-- SectorX Inc AI Android NPC's with custom robot TTS voice Added.
+- updated hardcoded llms to be up to date with sector x lore.
 
-- v0.0.1.10a Video: [Click Here](https://www.youtube.com/watch?v=M9CAcByvkBQ)
+- changed player character.
+
+- changed Jace character.
 
 ========================================================================
 
