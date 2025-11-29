@@ -2,7 +2,7 @@
 
 11.30.2025 - v0.0.3.0a has been released!
 
-Pre-Release Download: https://drive.google.com/uc?export=download&id=1Ol2MaU2IPWfjkY5fm16I52VyN7bTrcS_
+Pre-Release Download: https://drive.usercontent.google.com/download?id=1Ol2MaU2IPWfjkY5fm16I52VyN7bTrcS_
 
 Mirror: https://drive.google.com/uc?export=download&id=1uf4LWj3NLTb6Zd1YOWdTcIdtiOesuqM5
 
