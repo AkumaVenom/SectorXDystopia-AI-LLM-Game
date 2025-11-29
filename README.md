@@ -4,7 +4,7 @@
 
 Pre-Release Download: [Click Here](https://drive.usercontent.google.com/download?id=1Ol2MaU2IPWfjkY5fm16I52VyN7bTrcS_)
 
-Mirror: https://drive.google.com/uc?export=download&id=1uf4LWj3NLTb6Zd1YOWdTcIdtiOesuqM5
+Mirror: [Click Here](https://drive.google.com/uc?export=download&id=1uf4LWj3NLTb6Zd1YOWdTcIdtiOesuqM5)
 
 - updated hardcoded llms to be up to date with sector x lore.
 
