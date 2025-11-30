@@ -63,7 +63,7 @@ Recommended System Requirements:
 
 Ram: 16GB
 
-Video Ram: 12GB
+Video Ram: 8GB
 
 SSD/HDD: 12GB
 
@@ -89,11 +89,7 @@ Donation/Tips https://www.paypal.me/akumacreative
 
 ========================================
 
-SectorX Inc AI Android NPC's with custom robot TTS voice
-
 ![2](https://github.com/user-attachments/assets/7ec8a6fe-6982-4fbd-a871-37630e42d621)
-
-========================================
 
 ![Main3](https://github.com/user-attachments/assets/3f815e92-01a2-42b7-a240-ba8f3092a136)
 
