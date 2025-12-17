@@ -49,6 +49,9 @@ Welcome to Neon City.
 
 🧠 100% Local AI NPCs: Every character in the game runs on a local LLM, with no server dependency or pre-written scripts.
 
+👀 AI Vision Context: NPCs understand what they see in the game world.
+They reference nearby people, objects, and events using real-time LLM-driven "environmental awareness" — making every interaction feel dynamic, alive and smart.
+
 🌆 To Be A Massive Open World: Explore the gritty, neon-soaked sprawl of a cyberpunk slum metropolis, alive with music, nightlife, and urban chaos.
 
 🕶️ True Emergent Gameplay: No two conversations are the same. NPCs react, remember, and evolve.
