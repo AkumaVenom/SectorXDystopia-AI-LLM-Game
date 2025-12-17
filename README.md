@@ -90,7 +90,7 @@ Direct X 12
 
 OS: Windows 11 64bit
 
-Requires a RTX "Nvidia GPU" if using DLSS4.
+Requires a RTX "Nvidia GPU" to use the DLSS4 modes, Default mode is TSR. Use DLSS4 for massive FPS increase.
 
 Highly Recommended: CUDA 12.2 [Click To Download](https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local)
 
