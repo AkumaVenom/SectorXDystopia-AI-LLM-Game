@@ -10,7 +10,7 @@ Mirror: [Click Here](https://drive.google.com/uc?export=download&id=1vVs_bixAW0s
 
 Changelog v0.0.5.0a
 
-- Implemented saving & loading of previous chat conversations with all LLM NPCs in the game world. (chat will autosave strait after disabling the NPC chat).
+💾 ​Persistent LLM NPC Conversations Memory – Chat conversations with all LLM-driven NPCs are saved and loaded across sessions, allowing NPCs to remember past interactions and continue conversations naturally.
 
 - Added autosave toggle for NPC chat in options menu
 
