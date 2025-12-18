@@ -40,6 +40,8 @@ Welcome to Neon City.
 👀 AI Vision Context: NPCs understand what they see in the game world.
 They reference nearby people, objects, and events using real-time LLM-driven "environmental awareness" — making every interaction feel dynamic, alive and smart.
 
+💾 ​Persistent LLM NPC Conversations Memory – Chat conversations with all LLM-driven NPCs are saved and loaded across sessions, allowing NPCs to remember past interactions and continue conversations naturally. 
+
 🌆 To Be A Massive Open World: Explore the gritty, neon-soaked sprawl of a cyberpunk slum metropolis, alive with music, nightlife, and urban chaos.
 
 🕶️ True Emergent Gameplay: No two conversations are the same. NPCs react, remember, and evolve.
@@ -115,6 +117,12 @@ v0.0.4.5a Changelog:
 - Added many small improvements and small bug fixes.
 
 - WIP: Slot Machines (Changed the bland theme to cyber style, Not all icons yet).
+
+========================================
+
+Save Data Info:
+
+Save data including NPC chat histories are located in the hidden appdata folder: C:\Users\PCNAME\AppData\Local\SectorXDystopia\Saved\SaveGame
 
 ========================================
 
