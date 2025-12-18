@@ -1,6 +1,6 @@
 # SectorXDystopia-AI-LLM-Game
 
-17.12.2025 - v0.0.5.0a has been released!
+19.12.2025 - v0.0.5.0a has been released!
 
 Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&id=1437EZ71kEGBCon5wiXR7xk-c3JJml--l)
 
