@@ -1,20 +1,18 @@
 # SectorXDystopia-AI-LLM-Game
 
-19.12.2025 - v0.0.5.0a has been released!
+3.03.2026 - v0.0.5.1a has been released!
 
-Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&id=1437EZ71kEGBCon5wiXR7xk-c3JJml--l)
-
-Mirror: [Click Here](https://drive.google.com/uc?export=download&id=1vVs_bixAW0sEEhkA6pPIvcS0FytuC9c2)
+Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&id=1Cx0QlfkBjxpDLB0H9yT3IdjDQH2ZIods)
 
 ========================================================================
 
-Changelog v0.0.5.0a
+3.03.2026 - v0.0.5.1a:
 
-💾 ​Persistent LLM NPC Conversations Memory – Chat conversations with all LLM-driven NPCs are saved and loaded across sessions, allowing NPCs to remember past interactions and continue conversations naturally.
+Unreal Engine 5.7 Upgrade + DLSS 4.5 Integration
 
-- Added autosave toggle for NPC chat in options menu
+SectorXDystopia has been upgraded to Unreal Engine 5.7, bringing improved lighting stability, enhanced reflections, and sharper overall image clarity. Combined with DLSS 4.5, the game now delivers smoother frame pacing, reduced visual artifacts, and significantly improved temporal stability — especially in neon-lit and high-contrast environments.
 
-- Added new Setting to change the number of GPU Layers the LLM uses in options menu. (default value is 20).
+Expect deeper immersion, cleaner visuals, and a more cinematic cyberpunk experience.
 
 ========================================================================
 
@@ -97,6 +95,14 @@ https://discord.gg/Uf8Q8usSmk
 Donation/Tips https://www.paypal.me/akumacreative
 
 ========================================
+
+Changelog v0.0.5.0a
+
+💾 ​Persistent LLM NPC Conversations Memory – Chat conversations with all LLM-driven NPCs are saved and loaded across sessions, allowing NPCs to remember past interactions and continue conversations naturally.
+
+- Added autosave toggle for NPC chat in options menu
+
+- Added new Setting to change the number of GPU Layers the LLM uses in options menu. (default value is 20).
 
 v0.0.4.5a Changelog:
 
