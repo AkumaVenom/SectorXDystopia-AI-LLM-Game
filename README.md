@@ -90,12 +90,6 @@ Intel: 4th Generation (Haswell) and above
 
 ========================================
 
-https://discord.gg/Uf8Q8usSmk
-
-Donation/Tips https://www.paypal.me/akumacreative
-
-========================================
-
 Changelog v0.0.5.0a
 
 💾 ​Persistent LLM NPC Conversations Memory – Chat conversations with all LLM-driven NPCs are saved and loaded across sessions, allowing NPCs to remember past interactions and continue conversations naturally.
